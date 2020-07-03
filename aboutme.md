@@ -4,10 +4,10 @@ title: About me
 subtitle: A place to know me :)
 ---
 
-My name is Dr.X Men. I have the following qualities:
+My name is X Men. I am a very nice person.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I love to eat fruits and veggies.
+- I'm extremely loyal to my family.
 
 What else do you need?
 
