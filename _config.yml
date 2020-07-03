@@ -13,9 +13,11 @@ author: X-Men
 
 navbar-links:
   About: "about"
+  Tool: "tools"
+  Challenges: "challenges"
   Resources:
-    - Tools: "https://www.happywarmtea.com/tools"
-    - Challenges "https://www.happywarmtea.com/challenges"
+    # - Tools: "https://www.happywarmtea.com/tools"
+    # - Challenges: "https://www.happywarmtea.com/challenges"
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://www.happywarmtea.com/"
