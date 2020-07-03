@@ -4,19 +4,19 @@
 title: Tea Time @ 3pm
 
 # Short description of your site
-description: A tea place
+description: A place to enjoy drinking tea.
 
 # Your name to show in the footer
-author: X-man
+author: Some Person
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "About"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://www.happywarmtea.com/"
 
 # --- Logo --- #
 
@@ -38,10 +38,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "xu7@clemson.edu"
-  facebook: youcannotfindmyfacebook.com
-  github: thereisnogithubsince1997.com
-  twitter: ihavenotwitterforalongtime.com
+  email: "someone@example.com"
+  # facebook: deanattali
+  # github: daattali
+  # twitter: daattali
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -70,7 +70,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "https://www.happywarmtea.com/"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
