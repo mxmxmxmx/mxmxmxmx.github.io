@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "beautiful-jekyll-theme"
   spec.version       = "3.0.0"
-  spec.authors       = ["Dean Attali"]
-  spec.email         = ["daattali@gmail.com"]
+  spec.authors       = ["X-Man"]
+  spec.email         = ["xu7@clemson.edu"]
 
-  spec.summary       = "Beautiful Jekyll is a ready-to-use Jekyll theme to help you create an awesome website quickly. Perfect for personal blogs or simple project websites, with a focus on responsive and clean design."
-  spec.homepage      = "https://beautifuljekyll.com"
+  spec.summary       = "An awesome website to enjoy drinking tea."
+  spec.homepage      = "https://happywarmtea.com"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|LICENSE|README|feed|404|_data|tags|stfaticman)}i) }
