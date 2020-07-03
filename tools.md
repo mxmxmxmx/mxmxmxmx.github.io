@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: Tools
 subtitle: I build some tools.
 ---
