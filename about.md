@@ -4,13 +4,4 @@ title: About me
 subtitle: A place to know me :)
 ---
 
-My name is X Men. I am a very nice person.
-
-- I love to eat fruits and veggies.
-- I'm extremely loyal to my family.
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+My name is X Men. I am a very nice, kind, and humble person. I keep my chicken in-house and my pet fish in a 10.7 gallons of tank. I love learning new skills and watching youtube channels. Check it out my [Youtube](https://www.youtube.com/channel/UCoGMZOHZT1qxyMyIxo55_6w) and learn more about it.
