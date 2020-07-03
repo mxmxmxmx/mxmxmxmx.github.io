@@ -15,9 +15,10 @@ navbar-links:
   About: "about"
   Tool: "tools"
   Challenges: "challenges"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Support: "support"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://www.happywarmtea.com/"
 
 # --- Logo --- #
