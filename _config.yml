@@ -12,7 +12,7 @@ author: X-Men
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "About"
+  About: "about"
   Resources:
     - Tools: "https://www.happywarmtea.com/tools"
     - Challenges "https://www.happywarmtea.com/challenges"
