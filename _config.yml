@@ -15,7 +15,7 @@ navbar-links:
   About: "about"
   Tools: "tools"
   Challenges: "challenges"
-  Support: "support"
+  # Support: "support"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"

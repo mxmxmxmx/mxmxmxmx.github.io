@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Different Lights in Life
-subtitle: Simply explained
+subtitle: See the life with more colors and beauty
 cover-img: /assets/img/rainbow.jpg
 share-img: /assets/img/rainbow.jpg
 tags: [explained]
@@ -62,7 +62,7 @@ Infrared Thermometers is one of its applications, because most of the thermal ra
 ## Microwave
 Microwaves have wavelengths ranging from one meter to one millimeter. The prefix "micro-" in its name is meant to suggest a wavelength in the micrometer range. 
 
-They've been known to be able to heat and cook food. They also being used to transmit singles between earth and satellites.
+They've been known to be able to heat and cook food. They ares also being used to transmit singles between earth and satellites.
 <p align="center">
 <img src = "/assets/img/microwave.jpg" height="200"/> 
 <img src = "/assets/img/Frazier_Peak_tower.jpg" height = "200"/>
