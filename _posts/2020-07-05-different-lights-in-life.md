@@ -30,7 +30,6 @@ Its usage ranges from security check to medical radiation therapy for cancer.
 
 ## X-ray
 X-ray can be produced by sending a high-energy beam of electons smashing into an atom like copper. Its wavelength is between 0.03 and 3 nanometers. It can go through human bodies and has been used in medical imaging. Because bones are dense and absorb more x-rays than skin does, a x-ray image shows shadows of the bones while the skin appears transparent. 
-
 <p align="center">
 <img src = "/assets/img/Knee_plain_X-ray.jpg" width = "300"/>
 </p>
