@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How is mortgage calculated and why is it important
+title: How Is Mortgage Calculated And Why Is It Important
 subtitle: Simply explained
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg

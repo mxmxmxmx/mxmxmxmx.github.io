@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Different Lights in Life
+title: Different Lights In Life
 subtitle: See the life with more colors and beauty
 cover-img: /assets/img/rainbow.jpg
 share-img: /assets/img/rainbow.jpg
@@ -23,15 +23,16 @@ We'll go from the right of this spectrum to check how each of them gets applied 
 ## Gamma ray
 Gammy ray has the smallest wavelength. It carries the most energy. They usually come from the stars in universe or radioactive substances.
 
-Its usage ranges from security check to medical radiation therapy for cancer.
-
-<img src = "/assets/img/airport_security_check.jpg" height="250"/> 
-<img src = "/assets/img/Radiotherapy-System.jpg" height = "250"/>
+Medical radiation therapy for cancer is one application of gammy ray.
+<p align="center">
+<img src = "/assets/img/Radiotherapy-System.jpg" height = "200"/>
+</p>
 
 ## X-ray
-X-ray can be produced by sending a high-energy beam of electons smashing into an atom like copper. Its wavelength is between 0.03 and 3 nanometers. It can go through human bodies and has been used in medical imaging. Because bones are dense and absorb more x-rays than skin does, a x-ray image shows shadows of the bones while the skin appears transparent. 
+X-ray can be produced by sending a high-energy beam of electons smashing into an atom like copper. Its wavelength is between 0.03 and 3 nanometers. It can go through human bodies and has been used in medical imaging. Because bones are dense and absorb more x-rays than skin does, a x-ray image shows shadows of the bones while the skin appears transparent. X-ray is als being used in security check.
 <p align="center">
-<img src = "/assets/img/Knee_plain_X-ray.jpg" width = "300"/>
+<img src = "/assets/img/airport_security_check.jpg" height="250"/> 
+<img src = "/assets/img/Knee_plain_X-ray.jpg" height = "250"/>
 </p>
 
 ## Ultraviolet 
