@@ -28,7 +28,7 @@ This spectrum of colors produced from the prism are ordered based on their wavel
 ## Light Scattering
 There are lots of small particles in Earth's atmosphere, such as dust and droplets of water vapour. When light travels through them, it bounces off them and gets **scattered** in lots of different directions. 
 
-**Depending on the light wavelengths compared with the particle size, this scatter effect changes.** Scientists call this Rayleigh Scattering and the graph below shows the percentage of light get scattered depending on wavelengths.
+**Depending on the light wavelengths compared with the particle size, this scattering effect changes.** Scientists call this Rayleigh Scattering and the graph below shows the percentage of light get scattered depending on wavelengths.
 
 <p align="center">
 <img src = "/assets/img/sunlight_scattering.png" width = "400"/>
