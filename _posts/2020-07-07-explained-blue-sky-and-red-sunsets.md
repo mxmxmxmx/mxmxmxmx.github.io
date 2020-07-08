@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explained - Blue Sky And Red Sunsets
-subtitle: Physics colors the sky
+subtitle: Physics that colors the sky
 cover-img: /assets/img/sunset.jpg
 share-img: /assets/img/sunset.jpg
 tags: [explained]
