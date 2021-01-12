@@ -7,7 +7,7 @@ share-img: /assets/img/rainbow.jpg
 tags: [explained]
 ---
 
-The world is beautiful and full of colors. We are always amazed by the nature when we see a rainbow. However, the lights we can see with eyes accounts for only a small portion of what nature offers us. The lights in nature actually has much more variety than that, and they are affecting our life at every moment, especially since people found them and applied them in modern life widely.
+The world is beautiful and full of colors. We are always amazed by the nature when we see a rainbow. However, the lights we can see with eyes accounts for only a small portion of what nature offers us. The lights in nature actually has much more variety than that, and they are affecting our life at every moment, especially since people found them and applied them in modern life widely. 
 
 ## Light Spectrum
 Wikipedia has a comprehensive illustration picture for light spectrum (or more scientifically speaking, electromagnetic spectrum)
