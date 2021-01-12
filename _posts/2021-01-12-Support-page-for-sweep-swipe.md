@@ -10,7 +10,7 @@ tags:
 
 ## Sweep Swipe
 
-A fun game to enjoy and relax. Find the same shapes and swipe them. They are moving fast!
+A fun game to enjoy. Find the same shapes and swipe them. They are moving fast!
 
 <p align="center">
 <img src = "/assets/img/matchcolors.png" height="300"/> 
